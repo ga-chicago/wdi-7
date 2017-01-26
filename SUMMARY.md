@@ -1,0 +1,7 @@
+* [Syllabus](README.md)
+  * [Student Holidays](0_onboarding/holidays.md)
+  * [Attendance Policy](0_onboarding/attendance_policy.md)
+  * [Homework Submission](0_onboarding/homework_submission.md)
+  * [Required Software](0_onboarding/required_software.md)
+  * [Course Outline](0_onboarding/course_outline.md)
+  * [Required Reading](0_onboarding/required_reading.md)
