@@ -61,4 +61,4 @@ If you run into any problems installing this software, please alert an instructo
 
 * **What**: An extension that makes JSON look pretty.
 * **Why**: To easily navigate JSON files using a tree-view.
-* **Instructions**: Visit [https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc](here) and install the extension.
+* **Instructions**: Visit [https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) and install the extension.
