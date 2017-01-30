@@ -1,2 +1,3 @@
-# wdi-7
+# wdi-Animal Spirits
 
+Welcome to WDI-Animal-Spirits
