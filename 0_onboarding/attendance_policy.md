@@ -10,6 +10,7 @@ We understand that you have a life to live. If something comes up, please just l
 
 * ksella@ga.co
 * james.haff@ga.co
+* jeff.krantz@ga.co
 
 
 #### Field Trips
