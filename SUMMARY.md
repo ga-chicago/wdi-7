@@ -9,4 +9,4 @@
   * [Mac Cheat Sheet](0_onboarding/googleChromeShortcuts.md)
   * [basic terminal](01_basics/basic_terminal.md)
   * [create move files](01_basics/create_move_files_in_terminal.md)
-  *[Command Line Lab](01_basics/commandLineLab.md)
+  * [Command Line Lab](01_basics/commandLineLab.md)
