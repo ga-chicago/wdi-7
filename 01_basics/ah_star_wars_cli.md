@@ -1,6 +1,5 @@
 # After Hours/Homework
 
-This is homework for the night of Wednesday, June 1st. You'll have the rest of class and tonight to complete this. See the [Homework Submission Guide](../homework.md) to refresh your memory if you forgot how to submit homework
 
 ## Star Wars, the Command Line, and The Battle for the Fate of the Universe
 
