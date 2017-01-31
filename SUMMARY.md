@@ -10,4 +10,6 @@
   *[basic terminal](01_basics/basic_terminal.md)
   *[create move files](01_basics/create_move_files_in_terminal.md)
   *[Command Line Lab](01_basics/commandLineLab.md)
+  *[bash profile](01_basics/d01_bash_profile.md)
+  
   
