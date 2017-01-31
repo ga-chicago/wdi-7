@@ -1,5 +1,10 @@
 # Re-Introduction to CSS and HTML
 
+
+## Main file structure
+  1. index.html
+    a. styles folder
+    b. javascript folder
 ## The DOM
 
 The DOM (Document Object Model) is the browser's internal representation of what the HTML structure looks like. You can manipulate the DOM using JavaScript.
