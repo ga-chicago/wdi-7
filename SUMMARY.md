@@ -11,5 +11,4 @@
   * [Basic Terminal](01_basics/basic_terminal.md)
   * [Create Move Files](01_basics/create_move_files_in_terminal.md)
   * [Command Line Lab](01_basics/commandLineLab.md)
-  
 
