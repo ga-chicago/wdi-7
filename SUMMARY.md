@@ -6,9 +6,10 @@
   * [Course Outline](0_onboarding/course_outline.md)
   * [Required Reading](0_onboarding/required_reading.md)  
 * [Command Line and MacOS](01_basics/intro.md)
+  * [Bash Profile](01_basics/bash.md)
   * [Mac Cheat Sheet](0_onboarding/googleChromeShortcuts.md)
   * [Basic Terminal](01_basics/basic_terminal.md)
   * [Create Move Files](01_basics/create_move_files_in_terminal.md)
   * [Command Line Lab](01_basics/commandLineLab.md)
-  * [Bash Profile](01_basics/bash.md)
+  
 
