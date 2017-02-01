@@ -13,5 +13,4 @@
   * [Command Line Lab](01_basics/commandLineLab.md)
   * [Homework Command Line](01_basics/ah_star_wars_cli.md)
   * [reintroduction html css](01_basics/reintroduction_html_css.md)
-
-
+  * [Git Workflow](01_basics/git_workflow.md)
