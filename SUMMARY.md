@@ -17,6 +17,6 @@
   * [controlFlow](02_front_end/controlFlow.md)
   * [concatination](02_front_end/concatination.md)
   * [variables](02_front_end/variables.md)
-  * [Javascript Homework](02_front_end/JavascriptWeekOne.md)
-
+  * [Javascript Homework](02_front_end/JavascriptWeekOne.md)-
+  * [Git Workflow](01_basics/git_workflow.md)
 
