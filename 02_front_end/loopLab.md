@@ -18,14 +18,14 @@ loop down from a hundred and if the number is even add the current value to myBa
 4.  Loop through the following array and push the items that are not numbers 
 into a seperate array
 
-'var mixedArray = [1, 2, 3, 'taco', 4, 5, 6, 'burrito', 7, 8, 9, 'Whats the deal with airplane peanuts', 3.14, {barry: "Mannilow",}, 6, 55, null, "Old " + "Crow " + " Medicine Show", 3, 2, "I want the calzone from pizanos", "Death blow", "Firestorm", "48", 30]'
+`var mixedArray = [1, 2, 3, 'taco', 4, 5, 6, 'burrito', 7, 8, 9, 'Whats the deal with airplane peanuts', 3.14, {barry: "Mannilow",}, 6, 55, null, "Old " + "Crow " + " Medicine Show", 3, 2, "I want the calzone from pizanos", "Death blow", "Firestorm", "48", 30]`
 
 5.  Loop through the following array and push the items that make up a cheese burger, 
 or spaghetti into a seperate array name dinner.
 
 `var food = ['bun', "jalepeno cheddar", "elk", "beef", "1954 ford mustang", 1.14, 1.23, 'hot dog', "gary clark jr",  " I'lll never fall in love again", "mustard", "ketchup", 30, 50, 80, "grilled onions", "egg", "Dr. Suess"]`
 
-### Use a for in loop to loop through the following objects and print to the console,
+### Use a `for in` loop to loop through the following objects and print to the console,
 the name of each property.
 
 6.  `var colorObjects = {red: 'red', blue: 'blue', cyan: 'cyan'}`
@@ -36,7 +36,7 @@ the name of each property.
 
 
 
-### Use a for loop or a for in loop and print out the properties of the object or value of the indexin the array,  Above your code write in a comment what loop you are using and why
+### Use a `for loop` or a `for in` loop and print out the properties of the object or value of the indexin the array,  Above your code write in a comment what loop you are using and why
 
 
 9.  `var oldTime = ["benton flippen", "carter family", "roscoe Holcomb", "gus cannon", "Tommy Jarrell"];
