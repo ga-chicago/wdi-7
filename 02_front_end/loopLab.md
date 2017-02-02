@@ -39,7 +39,7 @@ the name of each property.
 ### Use a `for loop` or a `for in` loop and print out the properties of the object or value of the indexin the array,  Above your code write in a comment what loop you are using and why
 
 
-9.  `var oldTime = ["benton flippen", "carter family", "roscoe Holcomb", "gus cannon", "Tommy Jarrell"];
+9.  `var oldTime = ["benton flippen", "carter family", "roscoe Holcomb", "gus cannon", "Tommy Jarrell"];`
 
 10. `var sandwhich = {name: "sunday morning special", bread: "ciabatta", cheese: "pepper jack", green: "arugala", redStuff: "cherry tomatoes", heated: true}`
 
