@@ -20,5 +20,5 @@
   * [Javascript Homework](02_front_end/JavascriptWeekOne.md)-
   * [Git Workflow](01_basics/git_workflow.md)
 * [Loop practice](02_front_end/loopLab.md)
-  * [Loop practice 2](02_front_end/loopLab2.md)
+  * [Loop practice 2](02_front_end/loopsLab2.md)
 * [Weekend HW CSS Layout](02_front_end/cssChallenge.md)
