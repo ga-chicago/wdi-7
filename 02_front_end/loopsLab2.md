@@ -4,15 +4,15 @@
 For each iteration, if the current number is a multiple of 3, console.log the value.
 
 
-2. Write out an "infinite loop" below. Don't run the loop in your console unless you are prepared to force quit your browser!!
+2.  Write out an "infinite loop" below. Don't run the loop in your console unless you are prepared to force quit your browser!!
 
-3. Loop through this array and print every other value, starting with the first.
+3.  Loop through this array and print every other value, starting with the first.
 
 ```javascript
 var classmates = ["Bridjet", "Nathan", "Matias", "Mike", "Jason", "Reuben", "Ben", "Lane", "John", "Chris", "Terry", "Ann", "Katelyn", "Naomi", "Jeff"];
 ```
 
-4. Create a new array with the gluten-free options from this menu:
+4.  Create a new array with the gluten-free options from this menu:
 
 ```javascript
 var menu = [{name: "pizza", glutenFree: false},{name: "salad", glutenFree: true},{name: "donut", glutenFree: false},{name: "steak", glutenFree: true},{name: "chicken", glutenFree: true},{name: "cheeseburger", glutenFree: false}];
