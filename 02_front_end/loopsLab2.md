@@ -1,4 +1,4 @@
-##Loops Lab 2
+## Loops Lab 2
 
 1.  Write a for loop that will iterate from 50 to 20.
 For each iteration, if the current number is a multiple of 3, console.log the value.
