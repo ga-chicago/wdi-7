@@ -20,3 +20,4 @@
   * [Javascript Homework](02_front_end/JavascriptWeekOne.md)-
   * [Git Workflow](01_basics/git_workflow.md)
 * [Loop practice](02_front_end/loopLab.md)
+* [Weekend HW CSS Layout](02_front_end/cssChallenge.md)
