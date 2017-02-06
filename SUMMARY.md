@@ -21,3 +21,5 @@
   * [Git Workflow](01_basics/git_workflow.md)
 * [Loop practice](02_front_end/loopLab.md)
 * [Weekend HW CSS Layout](02_front_end/cssChallenge.md)
+* [Objects and Functions](02_front_end/functions.md)
+  *[Object Practice](02_front_end/object.md)
