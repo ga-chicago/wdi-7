@@ -5,7 +5,8 @@
 3.  `"washburn"`
 4.  `"weber"`
 
-```var instruments = {
+```
+var instruments = {
   banjo: ["1920 gibson", "deering", "washburn"],
   guitar: {
     acoustic: ["martin", "taylor", "santa cruz", "gibson"],
@@ -13,7 +14,8 @@
     nylon: ["baldwin", "cordoba"]
   },
   mandolin: ["eastman", "weber", "collings"]
-}```
+}
+```
 
 1.  Using the instruments object loop through all
 the electric gutiars and print them to the console.
@@ -24,8 +26,8 @@ a list of your favourtie singers.
 
 ---
 
-
-```var crazyObject = {
+```
+var crazyObject = {
   taco: [{meat: 'steak',
          cheese: ['panela', 'queso', 'chihuahua']},
          {meat: 'chicken',
@@ -49,7 +51,8 @@ a list of your favourtie singers.
     },
     ]
   }
-}```
+}
+```
 
 
 ### Using crazy object print the following
@@ -64,7 +67,6 @@ a list of your favourtie singers.
 
 1.  Print all the values in the object that has the name of susie
 (i.e `"susie"`, `"jeffs wife"`, and `"Swearing at Larry and Jeff"`` should be printed to the console)
-
 
 2.  Print all of Larrys quotes using a loop
 
