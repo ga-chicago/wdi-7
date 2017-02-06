@@ -1,5 +1,7 @@
 # Monday Homework
 
+[Homework Repo](https://github.com/ga-chicago/javascript-reps)
+
 ## Round 1
 
 Write a function `lengths` that accepts a single parameter as an argument, namely an array of strings. The function should return an array of numbers. Each number in the array should be the length of the corresponding string. To get you started, you'll need to **loop** through each *string* in the array and get the length of each one. Those lengths should be stored in a different array that you will return.
