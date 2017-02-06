@@ -21,7 +21,7 @@ var instruments = {
 the electric gutiars and print them to the console.
 
 2.  Add a property to the instruments object, that includes
-a list of your favourtie singers.
+a list of your favourite singers.
 
 
 ---
@@ -67,7 +67,6 @@ var crazyObject = {
 
 1.  Print all the values in the object that has the name of susie
 (i.e `"susie"`, `"jeffs wife"`, and `"Swearing at Larry and Jeff"`` should be printed to the console)
-
 2.  Print all of Larrys quotes using a loop
 
 
