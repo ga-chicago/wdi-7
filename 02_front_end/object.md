@@ -66,7 +66,7 @@ var crazyObject = {
 ## using crazy object loop through the following and print the following
 
 1.  Print all the values in the object that has the name of susie
-(i.e `"susie"`, `"jeffs wife"`, and `"Swearing at Larry and Jeff"`` should be printed to the console)
+(i.e `"susie"`, `"jeffs wife"`, and `"Swearing at Larry and Jeff"` should be printed to the console)
 2.  Print all of Larrys quotes using a loop
 
 
