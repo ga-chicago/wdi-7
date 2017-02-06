@@ -1,11 +1,11 @@
 ## Use the instruments object to print the following.
 
-a.  `"telecastor"`
-b.  `"santa cruz"`
-c.  `"washburn"`
-d.  `"weber"`
+1.  `"telecastor"`
+2.  `"santa cruz"`
+3.  `"washburn"`
+4.  `"weber"`
 
-`var instruments = {
+```var instruments = {
   banjo: ["1920 gibson", "deering", "washburn"],
   guitar: {
     acoustic: ["martin", "taylor", "santa cruz", "gibson"],
@@ -13,7 +13,7 @@ d.  `"weber"`
     nylon: ["baldwin", "cordoba"]
   },
   mandolin: ["eastman", "weber", "collings"]
-}`
+}```
 
 1.  Using the instruments object loop through all
 the electric gutiars and print them to the console.
@@ -21,7 +21,11 @@ the electric gutiars and print them to the console.
 2.  Add a property to the instruments object, that includes
 a list of your favourtie singers.
 
-`var crazyObject = {
+
+---
+
+
+```var crazyObject = {
   taco: [{meat: 'steak',
          cheese: ['panela', 'queso', 'chihuahua']},
          {meat: 'chicken',
@@ -45,7 +49,8 @@ a list of your favourtie singers.
     },
     ]
   }
-}`
+}```
+
 
 ### Using crazy object print the following
 
