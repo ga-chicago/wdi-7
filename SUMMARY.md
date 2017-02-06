@@ -23,4 +23,4 @@
   * [Loop practice 2](02_front_end/loopsLab2.md)
 * [Weekend HW CSS Layout](02_front_end/cssChallenge.md)
 * [Objects and Functions](02_front_end/functions.md)
-  *[Object Practice](02_front_end/object.md)
+  * [Object Practice](02_front_end/object.md)
