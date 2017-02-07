@@ -25,3 +25,6 @@
 * [Objects and Functions](02_front_end/functions.md)
   * [Object Practice](02_front_end/object.md)
   * [Object Homework](03_intermediate_front_end/d1-ah.md)
+  * [Function Practice](02_front_end/homeworkLoopIntro.md)
+  * [Object Methods](02_front_end/objectMethods.md)
+  * [Object Props](02_front_end/ObjectProps.md)
