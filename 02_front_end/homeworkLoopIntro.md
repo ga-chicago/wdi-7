@@ -1,6 +1,6 @@
 ## HomeWork
 
-[repo](https://github.com/ga-chicago/functionPractice)
+[HOMEWORK REPO](https://github.com/ga-chicago/functionPractice)
 
 ##  READ [This](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 
