@@ -2,7 +2,7 @@
 
 [repo](https://github.com/ga-chicago/functionPractice)
 
-##  READ THIS (this)(http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
+##  READ [This](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 
 
 ---
