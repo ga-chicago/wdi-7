@@ -1,4 +1,4 @@
-## Weekend Homework 
+ ## Weekend Homework 
 
 The homework this weekend is challenging, but a really great excercise to learn
 how to manipulate the dom.  
