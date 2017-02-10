@@ -31,3 +31,4 @@
   * [Constructors](03_intermediate_front_end/d03-constructors.md)
   * [DOM Selectors](02_front_end/selector.md)
   * [Canvas](02_front_end/canvas.md)
+  * [Morning Ex Functions](02_front_end/morningFunctionPractice.md)
