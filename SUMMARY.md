@@ -32,7 +32,7 @@
   * [DOM Selectors](02_front_end/selector.md)
   * [Canvas](02_front_end/canvas.md)
   * [Morning Ex Functions](02_front_end/morningFunctionPractice.md)
-* [FellowShip Answers](02_front_end/FellowshipAnswers.md)
+* [FellowShip Answers](02_front_end/FellowShipAnswers.md)
   * [HTTP](03_intermediate_front_end/http_api.png)
   * [HTTP Req Res](03_intermediate_front_end/http_request_response.png)
   * [HTTP Req res](03_intermediate_front_end/http_request_response.jpeg)
