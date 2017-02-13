@@ -33,4 +33,8 @@
   * [Canvas](02_front_end/canvas.md)
   * [Morning Ex Functions](02_front_end/morningFunctionPractice.md)
 * [FellowShip Answers](02_front_end/FellowShipAnswers.md)
+  * [HTTP](03_intermediate_front_end/http_api.png)
+  * [HTTP Req Res](03_intermediate_front_end/http_request_response.jpeg)
+  * [HTTP Req Res](03_intermediate_front_end/http_request_response.png)
+  * [AJAX](03_intermediate_front_end/ajax.md)
 
