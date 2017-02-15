@@ -37,3 +37,4 @@
   * [Monday Homework](03_intermediate_front_end/monday_homework.md)
   * [jQuery](03_intermediate_front_end/jQuery.md)
   * [AJAX in Depth](03_intermediate_front_end/ajax_inDepth.md)
+  * [wireframes](03_intermediate_front_end/wireframe.md)
