@@ -38,3 +38,4 @@
   * [jQuery](03_intermediate_front_end/jQuery.md)
   * [AJAX in Depth](03_intermediate_front_end/ajax_inDepth.md)
   * [wireframes](03_intermediate_front_end/wireframe.md)
+  * [wireframe lab](03_intermediate_front_end/wireframeLab.md)
