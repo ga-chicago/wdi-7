@@ -34,6 +34,6 @@
   * [Morning Ex Functions](02_front_end/morningFunctionPractice.md)
 * [FellowShip Answers](02_front_end/FellowShipAnswers.md)
   * [AJAX](03_intermediate_front_end/ajax.md)
+  * [Monday Homework](03_intermediate_front_end/monday_homework.md)
   * [jQuery](03_intermediate_front_end/jQuery.md)
   * [AJAX in Depth](03_intermediate_front_end/ajax_inDepth.md)
-
