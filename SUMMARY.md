@@ -40,4 +40,4 @@
   * [wireframes](03_intermediate_front_end/wireframe.md)
   * [wireframe lab](03_intermediate_front_end/wireframeLab.md)
   * [Project](03_intermediate_front_end/projectGame.md)
- <!--  * [jQuery Fellowship Answers](03_intermediate_front_end/jQueryFellowshipAnswer.md) -->
+  * [jQuery Fellowship Answers](03_intermediate_front_end/jQueryFellowshipAnswer.md)
