@@ -41,5 +41,5 @@
   * [AJAX in Depth](03_intermediate_front_end/ajax_inDepth.md)
   * [jQuery Fellowship Answers](03_intermediate_front_end/jQueryFellowshipAnswer.md)
 * [Project](03_intermediate_front_end/projectGame.md)
-  * [wireframes](03_intermediate_front_end/wireframe.md)
-  * [wireframe lab](03_intermediate_front_end/wireframeLab.md)
+  * [Wireframes](03_intermediate_front_end/wireframe.md)
+  * [Wireframe Lab](03_intermediate_front_end/wireframeLab.md)
