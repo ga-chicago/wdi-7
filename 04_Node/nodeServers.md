@@ -1,5 +1,10 @@
 ## Node Examples
 
+Clone it
+(GITHUB REPO)[https://github.com/ga-chicago/Node-api-OMDB]
+
+
+
 #### Simple Web Server
 
 ```javascript
