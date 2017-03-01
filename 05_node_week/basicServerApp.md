@@ -5,13 +5,10 @@ var express = require('express'),
     handlebars = require('express-handlebars');
 
   // tell express where the views are
-  app.set('views', '/filepath for the views')
-
-  //setting up handlebars
-  app.engine('handlebars', handlebars({defaultLayout: 'main'}))
+  app.set('views', path.join(__dirname, 'views'));
 
   // tellin express were using handlebars
-  app.set('view engine', 'handlebars')
+  app.set('view engine', 'hbs');
 
   app.get('/', function(request, response){
     // request object is from the client,
