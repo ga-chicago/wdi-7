@@ -1,10 +1,17 @@
 ```
 var express = require('express'),
     app     = express(),
-    server  = require('http').createServer(app);
+    server  = require('http').createServer(app),
+    handlebars = require('express-handlebars');
 
+  // tell express where the views are
+  app.set('views', '/filepath for the views')
 
+  //setting up handlebars
+  app.engine('handlebars', handlebars({defaultLayout: 'main'}))
 
+  // tellin express were using handlebars
+  app.set('view engine', 'handlebars')
 
   app.get('/', function(request, response){
     // request object is from the client,
