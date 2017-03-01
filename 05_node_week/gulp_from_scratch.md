@@ -57,7 +57,7 @@ A Gulp workflow is a set of tasks that run in order and do one important thing. 
 
 A set of gulp tasks - one Gulp task that runs one or more additional Gulp tasks - may be used to prepare a project for deployment. It may run the following sequence of tasks:
 
-- Run code tests (we'll cover testing in future lessons)
+
 - Transpile LESS into CSS
 - Minify your CSS files so they download faster when the client visits your site
 - Minify your front-end JavaScript files for the same reasons you minify your CSS
@@ -67,6 +67,4 @@ A set of gulp tasks - one Gulp task that runs one or more additional Gulp tasks 
 
 Now that you know how to set up a Gulp workflow it's time to learn how to use Gulp's API and plugins to write some useful tasks and set up one or more workflows.
 
-### Resources
 
-We created an example Gulp boilerplate that is set up to run an Express app and run certain jobs on it's code. [You can clone the example project from here](https://github.com/ga-chicago/gulp-boilerplate). Be responsible. Don't copy and paste code you don't understand. You can use some parts as a reference but write out the important parts from scratch.
