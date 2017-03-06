@@ -29,7 +29,7 @@ sudo mongod
 
 
 
-* You must always do this to run your database server
+1. You must always do the following to run your database server
 * To allow connections to your MongoDB database (such as applications needing to connect or Mongoose...), run `sudo mongod`. Think of it as `mongod` oversees **MongoDB**.
 * To connect to the MongoDB terminal (similar to `psql`), enter the `mongo` command.
 
