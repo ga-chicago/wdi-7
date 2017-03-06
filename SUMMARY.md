@@ -54,4 +54,9 @@
   * [node event loop](05_node_week/NodeEventLoop.md)
   * [basic Express Server](05_node_week/basicServerApp.md)
   * [less](05_node_week/less.md)
+* [Mongo](06_Express_Models/mongodb.md)
+  *[sql vs noSql](06_Express_Models/databases.md)
+  *[mongoose](06_Express_Models/mongoose.md)
+  *[mongoose Schema](06_Express_Models/mongooseSchema.md)
+
 
