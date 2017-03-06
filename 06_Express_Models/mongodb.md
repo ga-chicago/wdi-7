@@ -4,6 +4,31 @@
 Read: [Mongo vs Sql](https://www.sitepoint.com/sql-vs-nosql-differences/)
 #### Console w/MongoDB
 
+
+## Installing mongodb
+annotated version
+#### echo prints a message to your terminal.
+```
+echo -e "*** Hi! This script will install MongoDB."
+echo -e "You could be asked for your admin password up to four times."
+# update homebrew
+brew update
+# use homebrew to install
+echo -e "Installing MongoDB"
+sudo brew install mongodb -Y
+# create the mongodb swap directory
+echo -e "Creating the MongoDB directory..."
+sudo mkdir -p /data/db
+# set read/write permissions for this directory to root
+echo -e "Setting Permissions to the /data/* directory for MongoDB"
+sudo chmod -777 /data/*
+# start mongodb!
+echo -e "Starting Mongod..."
+sudo mongod
+```
+
+
+
 * You must always do this to run your database server
 * To allow connections to your MongoDB database (such as applications needing to connect or Mongoose...), run `sudo mongod`. Think of it as `mongod` oversees **MongoDB**.
 * To connect to the MongoDB terminal (similar to `psql`), enter the `mongo` command.
