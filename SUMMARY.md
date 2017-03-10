@@ -60,4 +60,5 @@
   * [mongoose Schema](06_Express_Models/mongooseSchema.md)
 * [Project 2](06_Express_Models/Project2.md)
   * [Partner Groups](06_Express_Models/projectGroups.md)
+  * [Git Exercise](06_Express_Models/gitExercise.md)
   * [Git Workflow](06_Express_Models/gitWorkflow.md)
