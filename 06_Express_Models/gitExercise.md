@@ -32,7 +32,7 @@
 7. Run `git commit -m "heroes and villains added"`
 8. Pull down the remote master branch
 9. Merge in your my-heros branch to the master branch
-10. Resolve the conflicts and keep the work with the <h1> tag.
+10. Resolve the conflicts and keep the work with the `<h1>` tag.
 11. Push the updated master branch to github.
 
 ### Person 2
