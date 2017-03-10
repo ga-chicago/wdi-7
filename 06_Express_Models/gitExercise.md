@@ -32,7 +32,7 @@
 7. Run `git commit -m "heroes and villains added"`
 8. Checkout the master branch
 9. Pull down the remote master branch
-10. Merge in your my-heros branch to the master branch
+10. Merge in your my-views branch to the master branch
 11. Resolve the conflicts and keep the work with the `<h1>` tag.
 12. Push the updated master branch to github.
 
