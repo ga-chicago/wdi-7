@@ -63,6 +63,7 @@
   * [Git Exercise](06_Express_Models/gitExercise.md)
   * [Git Workflow](06_Express_Models/gitWorkflow.md)
 * [Deployment](06_Express_Models/deploymentHeroku.md)
+* [Quiz](08_ruby_sinatra/FrontEndRecap.md)
 
 
 
