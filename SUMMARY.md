@@ -65,10 +65,11 @@
 * [Deployment](06_Express_Models/deploymentHeroku.md)
 * [Quiz](08_ruby_sinatra/FrontEndRecap.md)
 * [Ruby](08_ruby_sinatra/d01_types.md)
-  *  [conditionals](08_ruby_sinatra/conditionals.md)
+  *  [conditionals](08_ruby_sinatra/d01_conditionals.md)
   *  [Str Array Hash](08_ruby_sinatra/d01_string_array_hash.md)
   *  [enumeration](08_ruby_sinatra/d01_string_array_hash.md)
   *  [Quotes](08_ruby_sinatra/d01-single-double-quotes.md)
+  *  [Homework Revenge of Reps](08_ruby_sinatra/objectReps.md)
 
 
 
