@@ -1,5 +1,6 @@
 ## Homework: Put a Server in your pipe and smoke it
 
+(REPO LINK FORK THIS SHIT)[https://github.com/ga-chicago/Sinatra-Animal-Reps]
 **Strangers in the SERVERS**
 
 1. It is time to build the cutest server ever - the `small_animals` server! Place this in a new folder in `sinatraAnimals`
