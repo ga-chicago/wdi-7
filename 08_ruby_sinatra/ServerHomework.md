@@ -5,9 +5,7 @@
 
 1. It is time to build the cutest server ever - the `small_animals` server! Place this in a new folder in `sinatraAnimals`
 2. Create a brand new, small Sinatra app.
-3. Create a modular sinatra app that includes the application controller and a 
-home controller
-4. Inside of your `home controller`, you need to create a few routes...
+3. Inside of your `app.rb`, you need to create a few routes...
   * '/' - This should return a Hash turned into JSON with the following keys: `:name` and `:message
   * *Five* different routes mapped to the names of small animals - ie `/kitten` and `/puppy`
   * These five different routes should return a hash turned JSON with the following keys: `:name`, `:cuteness`, `:habitat`, `:picture_url`, and `:description`
