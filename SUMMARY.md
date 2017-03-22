@@ -71,6 +71,10 @@
   *  [Quotes](08_ruby_sinatra/d01-single-double-quotes.md)
   *  [Homework Revenge of Reps](08_ruby_sinatra/objectReps.md)
   *  [Homework Recap](08_ruby_sinatra/rupsRecap.md)
+  *  [Server setup](08_ruby_sinatra/firstServer.md)
+  *  [Erb ie hancock](08_ruby_sinatra/erb.md)
+  *  [Erb in Depth](08_ruby_sinatra/erbInDepth.md)
+  *  [Server Homework](08_ruby_sinatra/ServerHomework.md)
 
 
 
