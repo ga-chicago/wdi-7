@@ -76,9 +76,12 @@
   *  [Erb in Depth](08_ruby_sinatra/erbInDepth.md)
   *  [Server Homework](08_ruby_sinatra/ServerHomework.md)
   *  [morning Ex Answers](08_ruby_sinatra/morningExcerciseAnswers.md)
-  *  [sql](08_ruby_sinatra/sql.md)
+  *  [sql mySql](08_ruby_sinatra/sql.md)
+  *  [sql Postgres](08_ruby_sinatra/sqlpost.md)
+  *  [postgres cheatsheet](08_ruby_sinatra/postgresCheatSheet.md)
   *  [classes](08_ruby_sinatra/classes.md)
   *  [active Record](08_ruby_sinatra/active_record.md)
+  *  [mapping routes](08_ruby_sinatra/mappingRoutes.md)
 
 
 
