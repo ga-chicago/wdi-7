@@ -75,6 +75,10 @@
   *  [Erb ie hancock](08_ruby_sinatra/erb.md)
   *  [Erb in Depth](08_ruby_sinatra/erbInDepth.md)
   *  [Server Homework](08_ruby_sinatra/ServerHomework.md)
+  *  [morning Ex Answers](08_ruby_sinatra/morningExcerciseAnswers.md)
+  *  [sql](08_ruby_sinatra/sql.md)
+  *  [classes](08_ruby_sinatra/classes.md)
+  *  [active Record](08_ruby_sinatra/active_record.md)
 
 
 
