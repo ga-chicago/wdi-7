@@ -2,7 +2,7 @@
 
 #### Diagram
 
-![sinatra_route_mapping.png](sinatra_route_mapping.png)
+
 
 #### Example Config
 
