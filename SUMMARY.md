@@ -84,3 +84,4 @@
   *  [mapping routes](08_ruby_sinatra/mappingRoutes.md)
 * [SQL](08_ruby_sinatra/sql.md)
   * [Thursday Homework](08_ruby_sinatra/sinatraSqlHw.md)
+  * [Weekend Homework](08_ruby_sinatra/weekendHomework.md)
