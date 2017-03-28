@@ -85,3 +85,6 @@
 * [SQL](08_ruby_sinatra/sql.md)
   * [Thursday Homework](08_ruby_sinatra/sinatraSqlHw.md)
   * [Weekend Homework](08_ruby_sinatra/weekendHomework.md)
+* [React Gulp](09_reactjs/reactGulp.md)
+
+
